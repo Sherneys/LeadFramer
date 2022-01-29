@@ -4,7 +4,7 @@ from discord.ext import commands
 client = commands.Bot(command_prefix='!')
 client.remove_command("help")
 
-token = "ODQ5OTgwMzM4NTMyNTE1OTAw.YLjD4A.jkuUpy8fgJhp9ve691IjdV6C9S8"
+token = ""
 
 
 @client.event
